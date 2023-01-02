@@ -1,0 +1,20 @@
+{
+    "name": "ratpoopert/alpine-wp",
+    "type": "wordpress-plugin",
+    "description": "A simple WordPress plugin that registers Alpine.js under the handle 'alpinejs'.",
+    "version": "2023.01.01",
+    "homepage": "https://github.com/ratPoopert/alpine-wp",
+    "readme": "./README.md",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Patrick Ruppert",
+            "email": "patrick.j.ruppert@gmail.com",
+            "homepage": "https://github.com/ratPoopert",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "composer/installers": "*"
+    }
+}
