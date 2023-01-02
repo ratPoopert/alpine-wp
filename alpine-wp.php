@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Alpine.js for WordPress
  * Plugin URI: https://github.com/ratPoopert/alpine-wp
- * Description: A simple must-use plugin that registers Alpine.js with the handle 'alpinejs' for use as a plugin/theme script dependency.
+ * Description: A simple plugin that registers Alpine.js with the handle 'alpinejs' for use as a plugin/theme script dependency.
  * Version: 2023.01.01
  * Requires PHP: 8.0
  * Author: Patrick Ruppert

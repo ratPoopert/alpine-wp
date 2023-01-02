@@ -80,6 +80,8 @@ Create a `composer.json` file in your `wp-content` directory. Add the snippets b
     composer install
     ```
 
+6. Activate **Alpine.js for WordPress** in your admin Plugins screen.
+
 ## Usage
 
 This plugin registers Alpine.js under the handle `alpinejs` for use in the WordPress admin panel, front-end, and the login screen.
